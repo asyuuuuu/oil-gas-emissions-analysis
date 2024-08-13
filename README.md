@@ -8,8 +8,8 @@ Problem Statement
 * There is a need to analyze the relationship between carbon emissions and production levels to identify areas for improvement.
 * The global goal is to achieve net-zero emissions by 2050.
 
-* Main Goal: Quantify changes in carbon intensity over time and identify influencing factors.
-* Main Objective: Calculate and compare carbon intensity across companies and commodities, and identify correlations with other variables.
+Main Goal: Quantify changes in carbon intensity over time and identify influencing factors.
+Main Objective: Calculate and compare carbon intensity across companies and commodities, and identify correlations with other variables.
 
 Data Exploration & Insights
 * The 'Production Value vs Total Emissions' scatter plot showcases a positive correlation, suggesting that increased production often leads to higher emissions, prompting a closer look at efficiency improvements.
