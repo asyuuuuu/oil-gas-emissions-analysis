@@ -12,7 +12,7 @@ Problem Statement
 * Main Objective: Calculate and compare carbon intensity across companies and commodities, and identify correlations with other variables.
 
 Data Exploration & Insights
-* * The 'Production Value vs Total Emissions' scatter plot showcases a positive correlation, suggesting that increased production often leads to higher emissions, prompting a closer look at efficiency improvements.
+* The 'Production Value vs Total Emissions' scatter plot showcases a positive correlation, suggesting that increased production often leads to higher emissions, prompting a closer look at efficiency improvements.
 
 * The 'Total Emissions Over Time' graph reveals a concerning trend: a significant surge in emissions, particularly between 1950 and 2020, underscoring the industry's   growing carbon footprint.
 
@@ -32,12 +32,12 @@ Data Modeling - Machine Learning Algorithm
 * The Random Forest Regressor and XG Boost Regressor models exhibited superior performance, showcasing their ability to handle non-linear relationships and complex interactions within the data.
 * Cross-validation was employed to ensure model robustness and avoid overfitting
 
-* Model Deployment
-* * The final model was deployed using Gradio, creating an interactive interface for users to input data and receive carbon emission predictions.
+Model Deployment
+* The final model was deployed using Gradio, creating an interactive interface for users to input data and receive carbon emission predictions.
 * This deployment allows for practical application of the model, enabling stakeholders to assess the potential environmental impact of different production scenarios.
 
 * Summary
-* * Our analysis successfully quantified the evolution of carbon intensity in the oil and gas industry, revealing a complex trend over time.
+* Our analysis successfully quantified the evolution of carbon intensity in the oil and gas industry, revealing a complex trend over time.
 * Coal-related companies and commodities were identified as major contributors to carbon intensity.
 * Correlations were uncovered, suggesting potential links between production volume, year, and carbon intensity, offering valuable insights for emission reduction strategies.
 * * The trend of highest carbon intensity was observed between 1970 and 1985, likely due to factors such as high industrial activity, increased energy demands, and limited renewable energy adoption.
