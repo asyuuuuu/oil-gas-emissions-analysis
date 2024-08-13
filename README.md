@@ -9,6 +9,7 @@ Problem Statement
 * The global goal is to achieve net-zero emissions by 2050.
 
 Main Goal: Quantify changes in carbon intensity over time and identify influencing factors.
+
 Main Objective: Calculate and compare carbon intensity across companies and commodities, and identify correlations with other variables.
 
 Data Exploration & Insights
