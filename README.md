@@ -23,7 +23,7 @@ Data Exploration & Insights
 * The 'Top 10 Entities by Total Emissions' chart highlights the major contributors to carbon emissions, emphasizing the need for targeted action.
 
 Data Modeling- Features Selection
-* * We employed various regression models to predict carbon emissions based on factors like production value, year, parent entity, and commodity.
+* We employed various regression models to predict carbon emissions based on factors like production value, year, parent entity, and commodity.
 * The 'r2 score' metric was used to evaluate model performance, indicating how well the model explains the variance in carbon emissions.
 * The Multi Linear Regression model, incorporating all features, achieved the highest r2 score, suggesting its effectiveness in capturing the complex relationships in the data.
 
