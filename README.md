@@ -28,20 +28,20 @@ Data Modeling- Features Selection
 * The Multi Linear Regression model, incorporating all features, achieved the highest r2 score, suggesting its effectiveness in capturing the complex relationships in the data.
 
 Data Modeling - Machine Learning Algorithm
-* We further explored different machine learning algorithms, including Linear Regression, Random Forest Regressor, Ridge, and XG Boost Regressor.
+* We further explored different machine learning algorithms, including Random Forest Regressor and XG Boost Regressor.
 * The 'Accuracy' and 'MSE' metrics were used to assess model performance, with higher accuracy and lower MSE indicating better predictions.
-* The Random Forest Regressor and XG Boost Regressor models exhibited superior performance, showcasing their ability to handle non-linear relationships and complex interactions within the data.
+* The non-linear regression model exhibited superior performance, showcasing their ability to handle non-linear relationships and complex interactions within the data.
 * Cross-validation was employed to ensure model robustness and avoid overfitting
 
 Model Deployment
 * The final model was deployed using Gradio, creating an interactive interface for users to input data and receive carbon emission predictions.
 * This deployment allows for practical application of the model, enabling stakeholders to assess the potential environmental impact of different production scenarios.
 
-* Summary
+Summary
 * Our analysis successfully quantified the evolution of carbon intensity in the oil and gas industry, revealing a complex trend over time.
 * Coal-related companies and commodities were identified as major contributors to carbon intensity.
 * Correlations were uncovered, suggesting potential links between production volume, year, and carbon intensity, offering valuable insights for emission reduction strategies.
-* * The trend of highest carbon intensity was observed between 1970 and 1985, likely due to factors such as high industrial activity, increased energy demands, and limited renewable energy adoption.
+* The trend of highest carbon intensity was observed between 1970 and 1985, likely due to factors such as high industrial activity, increased energy demands, and limited renewable energy adoption.
 * The top 3 commodities contributing to emissions were identified as bituminous coal, oil and NGL, and anthracite coal.
 * To achieve net-zero emissions by 2050, we recommend:
     * Government disincentives for fossil fuel consumption and incentives for renewable energy use.
